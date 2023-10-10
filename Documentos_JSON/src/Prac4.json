@@ -1,0 +1,33 @@
+{ "Invoice": [
+  {
+    "Business_Contact_Info": {
+      "BusinessName": "000-0000",
+      "StreetAdress": "",
+      "CityStateZip": "",
+      "Telephone": "",
+      "Email": "",
+      "Website" : ""
+    },
+    "Invoice_Number": {
+      "BillTo": "000-0000",
+      "ShipTo": "",
+      "InvoiceDetails": "",
+      "Date": ""
+    },
+    "Description_Of_Goods_And_Services": {
+      "ProductOrService": "000-0000",
+      "Description": "",
+      "QuantityOrHours": "",
+      "Rate": "",
+      "Amount": ""
+    },
+    "Billing": {
+      "Subtotal": "000-0000",
+      "SalesTax": "",
+      "ShippingFee": "",
+      "Total": "",
+      "Comments": ""
+    }
+  }
+]
+}

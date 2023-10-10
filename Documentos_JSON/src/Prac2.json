@@ -1,0 +1,33 @@
+{ "Platillos": [
+  {
+    "Nombre": "Gofres Belgas",
+    "Precio_En_Euros": "5.95",
+    "Descripcion": "Dos de nuestros famosos Gofres belgas con abundante sirope",
+    "Calorias": "650"
+  },
+  {
+    "Nombre": "Gofres Belgas con Fresas",
+    "Precio_En_Euros": "7.95",
+    "Descripcion": "Ligeros gofres belgas cubiertos de fresas y nata montada",
+    "Calorias": "900"
+  },
+  {
+    "Nombre": "Gofres Belgas con Frutas del Bosque",
+    "Precio_En_Euros": "8.95",
+    "Descripcion": "Ligeros gofres belgas cubiertos con frutas del bosque y nata montada",
+    "Calorias": "900"
+  },
+  {
+    "Nombre": "Tostada Francesa",
+    "Precio_En_Euros": "4.50",
+    "Descripcion": "Dos gruesas rebanadas de nuestro pan francés casero",
+    "Calorias": "600"
+  },
+  {
+    "Nombre": "Desayuno de la Casa",
+    "Precio_En_Euros": "6.95",
+    "Descripcion": "Dos huevos, bacon o salchicha, tostada y patatas fritas",
+    "Calorias": "950"
+  }
+]
+}
